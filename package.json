@@ -1,0 +1,30 @@
+{
+  "name": "social-media-campaign-roi-calculator",
+  "version": "1.0.0",
+  "description": "Calculate the return on investment (ROI) of social media campaigns based on key performance indicators and campaign costs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/social-media-campaign-roi-calculator.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "campaign",
+    "roi",
+    "calculator"
+  ],
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^12.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/social-media-campaign-roi-calculator/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/social-media-campaign-roi-calculator#readme",
+  "devDependencies": {}
+}
